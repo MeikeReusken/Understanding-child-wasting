@@ -1,0 +1,1 @@
+This repository will soon contain the data used for publication "A step closer to understanding the prevalence of child wasting: Identifying risk factors and predicting changes" by Meike Reusken, Christopher Coffey, Frans Cruijssen, Bertrand Melenberg and Cascha van Wanrooi. 
